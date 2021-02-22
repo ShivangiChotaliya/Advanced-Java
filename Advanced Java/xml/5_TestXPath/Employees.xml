@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+     <Employee emplid="3333" type="admin">
+          <Firstname>Prashant</Firstname > 
+          <Lastname>abc</Lastname>
+          <Age>30</Age>
+          <Salary>2500</Salary>
+          <Email>prashant@gmail.com</Email>
+     </Employee>
+     <Employee emplid="2222" type="admin">
+          <Firstname>Akhil</Firstname>
+          <Lastname>xyz</Lastname>
+          <Age>40</Age>
+          <Salary>1500</Salary>
+          <Email>akhil@gmail.com</Email>
+     </Employee>
+     <Employee emplid="3" type="admin">
+          <Firstname>Sachin</Firstname>
+          <Lastname>aaa</Lastname>
+          <Age>42</Age>
+          <Salary>2000</Salary>
+          <Email>sachin@gmail.com</Email>
+     </Employee>
+     <Employee emplid="4" type="accountant">
+          <Firstname>Ankita</Firstname>
+          <Lastname>bbb</Lastname>
+          <Age>25</Age>
+          <Salary>2250</Salary>
+          <Email>ankita@gmail.com</Email>
+     </Employee>
+</Employees>

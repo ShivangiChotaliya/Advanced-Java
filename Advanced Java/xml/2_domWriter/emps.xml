@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees xmlns="xml/employee">
+    <Employee id="1">
+        <name>devamgi</name>
+        <age>19</age>
+        <role>Programmer</role>
+        <gender>Male</gender>
+    </Employee>
+    <Employee id="2">
+        <name>Shivu</name>
+        <age>18</age>
+        <role>Manager</role>
+        <gender>Female</gender>
+    </Employee>
+</Employees>
